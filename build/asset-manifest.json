@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2241976e.css",
+    "main.js": "/static/js/main.3a1660e2.js",
+    "static/js/787.cf4f6427.chunk.js": "/static/js/787.cf4f6427.chunk.js",
+    "static/media/admin-login.jpeg": "/static/media/admin-login.ddf566bb7d5899456680.jpeg",
+    "static/media/bell.mp3": "/static/media/bell.72d5668f672aa6c30075.mp3",
+    "static/media/home-brush.png": "/static/media/home-brush.ef80a348c0a120d3bb54.png",
+    "static/media/zad.png": "/static/media/zad.9186bbb65be2d330d962.png",
+    "static/media/xwaiter.png": "/static/media/xwaiter.d9b2fac939423e2c12b9.png",
+    "static/media/fs-albert.ttf": "/static/media/fs-albert.6ef3997ca9d2449d2896.ttf",
+    "static/media/fs-albert-700.ttf": "/static/media/fs-albert-700.448aac52cdcfee46b941.ttf",
+    "static/media/zadzad.png": "/static/media/zadzad.5b47cee2c732135626a8.png",
+    "static/media/zad2.png": "/static/media/zad2.44153a9f246698f70b0e.png",
+    "static/media/waiter.png": "/static/media/waiter.8e03d5762412d5b30be4.png",
+    "static/media/ArbFONTS-Somar-Bold.otf": "/static/media/ArbFONTS-Somar-Bold.0dbc68e097a11558a290.otf",
+    "static/media/ArbFONTS-Somar-SemiBold.otf": "/static/media/ArbFONTS-Somar-SemiBold.8f6cae134c41e70d8283.otf",
+    "static/media/ArbFONTS-Somar-Regular.otf": "/static/media/ArbFONTS-Somar-Regular.628198835eaae8734e00.otf",
+    "static/media/logo.png": "/static/media/logo.64492ba08acf4efa4332.png",
+    "static/media/bg-item.svg": "/static/media/bg-item.6b472f986e0a3224678db49e3d423a37.svg",
+    "static/media/gear.svg": "/static/media/gear.4224c455df7a0cfe1db943abb98ca4c0.svg",
+    "index.html": "/index.html",
+    "main.2241976e.css.map": "/static/css/main.2241976e.css.map",
+    "main.3a1660e2.js.map": "/static/js/main.3a1660e2.js.map",
+    "787.cf4f6427.chunk.js.map": "/static/js/787.cf4f6427.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2241976e.css",
+    "static/js/main.3a1660e2.js"
+  ]
+}
