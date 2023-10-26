@@ -13,7 +13,7 @@ A comprehensive software solution designed for managing restaurants and cafes. T
 
 - **Secure Data Management:** x-waiter ensures the security and integrity of your restaurant or cafe's data with robust data management features.
 
-- 
+  
 ### Technologies Used
 
 - **React.js:** The front-end of the application is built using React.js for creating dynamic and interactive user interfaces.
