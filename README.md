@@ -1,6 +1,5 @@
 # zad-xwaiter
 ![xwaiter](https://github.com/abdallahMoussa/zad-xwaiter/assets/55410420/a6570ac4-695b-4ee4-bc87-e9c3361afd62)
-![zad](https://github.com/abdallahMoussa/zad-xwaiter/assets/55410420/706c0025-d319-4223-a4a2-346a025867b3)
 
 A comprehensive software solution designed for managing restaurants and cafes. This software is built using React Js, Tailwind CSS, PHP Laravel, and MySQL to provide an efficient and user-friendly platform for restaurant and cafe owners.
 
